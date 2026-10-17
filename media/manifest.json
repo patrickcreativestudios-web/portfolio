@@ -1,0 +1,322 @@
+[
+ {
+  "id": "luxury-luxury-pat",
+  "cat": "luxury",
+  "file": "Luxury_Pat.mp4",
+  "w": 1920,
+  "h": 1080,
+  "dur": 59.9
+ },
+ {
+  "id": "luxury-luxury-patrick",
+  "cat": "luxury",
+  "file": "LUXURY_Patrick.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 60.8
+ },
+ {
+  "id": "luxury-luxuryedit-patrick",
+  "cat": "luxury",
+  "file": "LuxuryEdit_Patrick.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 55.2
+ },
+ {
+  "id": "realestate-child-friendly-in-mclean-paul-kim-3",
+  "cat": "realestate",
+  "file": "Child Friendly in McLean_Paul Kim_3.mp4",
+  "w": 1920,
+  "h": 1080,
+  "dur": 452.7
+ },
+ {
+  "id": "realestate-intro-to-coconut-grove-bianca-de-la-riva",
+  "cat": "realestate",
+  "file": "Intro to Coconut Grove_Bianca De la riva.mp4",
+  "w": 1920,
+  "h": 1080,
+  "dur": 10.9
+ },
+ {
+  "id": "realestate-new-home-myths-rob-rovnak-3",
+  "cat": "realestate",
+  "file": "New Home Myths_Rob Rovnak_3.mp4",
+  "w": 1920,
+  "h": 1080,
+  "dur": 783.0
+ },
+ {
+  "id": "realestate-justin-s-finished-flip-paul-robert",
+  "cat": "realestate",
+  "file": "Justin_s Finished Flip_Paul Robert.mp4",
+  "w": 1920,
+  "h": 1080,
+  "dur": 880.9
+ },
+ {
+  "id": "reshorts-23-woodland-trail-reel",
+  "cat": "reshorts",
+  "file": "23 Woodland Trail Reel.mov",
+  "w": 1080,
+  "h": 1920,
+  "dur": 137.1
+ },
+ {
+  "id": "reshorts-2422-fall-harvest-cres-branded",
+  "cat": "reshorts",
+  "file": "2422 fall harvest cres BRANDED.mov",
+  "w": 1920,
+  "h": 1080,
+  "dur": 98.7
+ },
+ {
+  "id": "reshorts-50-oshea-crescent-ajax",
+  "cat": "reshorts",
+  "file": "50 Oshea Crescent Ajax.mov",
+  "w": 1920,
+  "h": 1080,
+  "dur": 159.6
+ },
+ {
+  "id": "reshorts-branded-80-nantucket",
+  "cat": "reshorts",
+  "file": "BRANDED 80 NANTUCKET.mov",
+  "w": 1920,
+  "h": 1080,
+  "dur": 93.9
+ },
+ {
+  "id": "reshorts-reel-80-nantucket",
+  "cat": "reshorts",
+  "file": "REEL 80 NANTUCKET.mov",
+  "w": 1080,
+  "h": 1920,
+  "dur": 74.2
+ },
+ {
+  "id": "reshorts-social-2422-fall-harvest",
+  "cat": "reshorts",
+  "file": "Social 2422 fall harvest.mov",
+  "w": 1080,
+  "h": 1920,
+  "dur": 75.7
+ },
+ {
+  "id": "shortform-leif-jacobson",
+  "cat": "shortform",
+  "file": "Leif Jacobson.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 27.1
+ },
+ {
+  "id": "shortform-short-form-edit",
+  "cat": "shortform",
+  "file": "Short form Edit.mp4",
+  "w": 2160,
+  "h": 3840,
+  "dur": 40.2
+ },
+ {
+  "id": "shortform-test-edit-amora-media-patrick-fontanilla-2",
+  "cat": "shortform",
+  "file": "Test Edit_Amora Media_Patrick Fontanilla_2.mp4",
+  "w": 1920,
+  "h": 1080,
+  "dur": 106.9
+ },
+ {
+  "id": "ugc-romemd-2",
+  "cat": "ugc",
+  "file": "RomeMD_2.mp4",
+  "w": 1080,
+  "h": 1350,
+  "dur": 75.4
+ },
+ {
+  "id": "ugc-bb-ugc-1",
+  "cat": "ugc",
+  "file": "BB_UGC_1.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 18.6
+ },
+ {
+  "id": "ugc-bb-ugc-2",
+  "cat": "ugc",
+  "file": "BB_UGC_2.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 10.5
+ },
+ {
+  "id": "ugc-bb-ugc-3",
+  "cat": "ugc",
+  "file": "BB_UGC_3.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 13.7
+ },
+ {
+  "id": "ugc-col25013-v1-college-send-off-ugc-tiktok",
+  "cat": "ugc",
+  "file": "COL25013-v1-College Send Off-UGC-TikTok.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 39.3
+ },
+ {
+  "id": "ugc-col25013-v2-college-send-off-ugc-tiktok",
+  "cat": "ugc",
+  "file": "COL25013-v2-College Send Off-UGC-TikTok.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 39.6
+ },
+ {
+  "id": "ugc-col25014-v1-bad-behavior-ugc-tiktok-9x16",
+  "cat": "ugc",
+  "file": "COL25014-V1-Bad Behavior-UGC-TikTok-9x16.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 28.7
+ },
+ {
+  "id": "ugc-col25014-v2-bad-behavior-ugc-tiktok-9x16",
+  "cat": "ugc",
+  "file": "COL25014-V2-Bad Behavior-UGC-TikTok-9x16.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 23.9
+ },
+ {
+  "id": "ugc-col25015-v2-whitening-at-home-ugc-tiktok",
+  "cat": "ugc",
+  "file": "COL25015-v2-Whitening at Home-UGC-TikTok.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 40.5
+ },
+ {
+  "id": "ugc-col25016-v1-whitening-shouldn-t-be-a-struggle-ugc-tiktok-9x16",
+  "cat": "ugc",
+  "file": "COL25016-V1-Whitening Shouldn_t be a Struggle-UGC-TikTok-9x16.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 19.1
+ },
+ {
+  "id": "ugc-col25016-v2-whitening-shouldn-t-be-a-struggle-ugc-tiktok-9x16",
+  "cat": "ugc",
+  "file": "COL25016-V2-Whitening Shouldn_t be a Struggle-UGC-TikTok-9x16.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 20.6
+ },
+ {
+  "id": "ugc-hyd-v1-bradleyworkce-tiktok",
+  "cat": "ugc",
+  "file": "HYD-v1-BradleyWorkCE-TikTok.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 22.1
+ },
+ {
+  "id": "ugc-ptb25014-v3-reading-reviews-ugc-meta-9x16-1",
+  "cat": "ugc",
+  "file": "PTB25014-V3-Reading Reviews UGC-META-9X16_1.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 13.5
+ },
+ {
+  "id": "ugc-sca25034-v1-juststart-ugc-tiktok-1-1",
+  "cat": "ugc",
+  "file": "SCA25034-V1-JustStart-UGC-TikTok-1_1.mp4",
+  "w": 1080,
+  "h": 1080,
+  "dur": 62.1
+ },
+ {
+  "id": "ugc-sca25034-v1-juststart-ugc-tiktok-9-16",
+  "cat": "ugc",
+  "file": "SCA25034-V1-JustStart-UGC-TikTok-9_16.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 62.1
+ },
+ {
+  "id": "ugc-ssm25013-v1-elsa-edits-meta",
+  "cat": "ugc",
+  "file": "SSM25013-v1-Elsa Edits-Meta.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 72.0
+ },
+ {
+  "id": "ugc-ugc-alexis-billo-1",
+  "cat": "ugc",
+  "file": "UGC_Alexis Billo_1.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 38.8
+ },
+ {
+  "id": "ugc-ugc-courntey-billo",
+  "cat": "ugc",
+  "file": "UGC_Courntey_Billo.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 42.3
+ },
+ {
+  "id": "ugc-ugc-eden-billo",
+  "cat": "ugc",
+  "file": "UGC_Eden-Billo.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 39.5
+ },
+ {
+  "id": "ugc-ugc-haley-j-billo-1",
+  "cat": "ugc",
+  "file": "UGC_Haley J Billo__1.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 37.2
+ },
+ {
+  "id": "ugc-aerre-brand-video-video-editor-aptitude-test",
+  "cat": "ugc",
+  "file": "\u00c0erre - Brand video- Video Editor Aptitude Test.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 21.5
+ },
+ {
+  "id": "ugc-aerre-v1-video-editor-aptitude-test",
+  "cat": "ugc",
+  "file": "\u00c0erre_v1_Video Editor Aptitude Test.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 59.9
+ },
+ {
+  "id": "ugc-aerre-v2-video-editor-aptitude-test",
+  "cat": "ugc",
+  "file": "\u00c0erre_v2_Video Editor Aptitude Test.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 59.7
+ },
+ {
+  "id": "ugc-aerre-v3-video-editor-aptitude-test",
+  "cat": "ugc",
+  "file": "\u00c0erre_v3_Video Editor Aptitude Test.mp4",
+  "w": 1080,
+  "h": 1920,
+  "dur": 59.7
+ }
+]
