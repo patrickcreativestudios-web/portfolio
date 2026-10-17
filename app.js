@@ -194,6 +194,17 @@
     if (e.key === "ArrowLeft") step(-1);
   });
 
+  // deep links: #v=<video id> opens that video in the player (used by the PDF portfolio)
+  const openFromHash = () => {
+    const id = new URLSearchParams(location.hash.slice(1)).get("v");
+    const i = WORKS.findIndex((w) => w.id === id);
+    if (i < 0) return;
+    document.getElementById("work").scrollIntoView();
+    openLightbox(i);
+  };
+  addEventListener("hashchange", openFromHash);
+  openFromHash();
+
   /* ---------- scroll reveal ---------- */
   const rio = new IntersectionObserver(
     (entries) => entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("in"); rio.unobserve(e.target); } }),
