@@ -1,11 +1,11 @@
 (() => {
   const WORKS = window.WORKS || [];
   const CATS = {
+    ugc: "UGC / TikTok / Meta",
+    shortform: "Short Form",
     luxury: "Luxury Real Estate",
     reshorts: "Real Estate Shorts",
     realestate: "Real Estate YouTube",
-    shortform: "Short Form",
-    ugc: "UGC / TikTok / Meta",
   };
   const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
   const canHover = matchMedia("(hover: hover)").matches;
@@ -41,13 +41,13 @@
   const fan = document.getElementById("fan");
   const pick = (id) => WORKS.find((w) => w.id === id);
   const fanItems = [
-    { work: pick("ugc-ugc-alexis-billo-1") },
-    { work: pick("luxury-luxuryedit-patrick"), tag: "LUXURY<br>LISTING" },
+    { work: pick("ugc-ugc-courntey-billo") },
+    { work: pick("ugc-aerre-v1-video-editor-aptitude-test"), tag: "UGC<br>AD" },
     { red: true },
     { portrait: true },
-    { work: pick("reshorts-reel-80-nantucket"), tag: "REAL<br>ESTATE" },
-    { work: pick("ugc-aerre-v1-video-editor-aptitude-test"), tag: "BRAND<br>AD" },
-    { work: pick("shortform-leif-jacobson") },
+    { work: pick("ugc-col25015-v2-whitening-at-home-ugc-tiktok"), tag: "TIKTOK<br>AD" },
+    { work: pick("ugc-ssm25013-v1-elsa-edits-meta"), tag: "META<br>AD" },
+    { work: pick("luxury-luxuryedit-patrick") },
   ];
   const n = fanItems.length;
   const spread = innerWidth < 560 ? 52 : 40;
